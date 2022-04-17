@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lívia!</h1>
 <h3 align="center">A frontend student from Brazil</h3>
 
-<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
+<img align="right" alt="Coding" width="400" height="500" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
 - 🌈 I’m currently learning **HTML, CSS and JavaScript**
 
