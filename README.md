@@ -3,7 +3,7 @@
 
 - 🌈 I’m currently learning **Javascript**
 
-- ✨ My portfolio [https://liviaerthal.github.io/livia-portfolio/](https://liviaerthal.github.io/livia-portfolio/)
+- ✨ My portfolio [https://liviaerthal.github.io/portfolio//](https://liviaerthal.github.io/portfolio//)
 
 - ☕️ Random fact: **My favorites series are Stranger Things and F.R.I.E.N.D.S**
 
